@@ -10,7 +10,7 @@ public class Main {
 
 		// También se puede utilizar el objeto Scanner para obtener información de la terminal
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Ingrese un numero entero: ");
+		System.out.println("Ingrese un numero entero: 12");
 		System.out.println("Ud ingresó: " + sc.nextInt());
 	}
 
